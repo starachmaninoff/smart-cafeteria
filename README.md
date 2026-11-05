@@ -1,1 +1,1 @@
-# smart-cafeteria
+# mjc-table
